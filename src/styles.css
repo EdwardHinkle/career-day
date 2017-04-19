@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~https://fonts.googleapis.com/icon?family=Material+Icons';
+
+
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.example-fill-remaining-space {
+  flex: 1 1 auto;
+}
