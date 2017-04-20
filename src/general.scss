@@ -1,17 +1,38 @@
-.eddie-card {
-  width: 400px;
-  display: inline-block !important;
-  margin-right: 25px;
-  padding-bottom: 0px !important;
+.card {
   box-shadow: 0 3px 5px -1px rgba(0, 0, 0, .2), 0 6px 10px 0 rgba(0, 0, 0, .14), 0 1px 18px 0 rgba(0, 0, 0, .12)
 }
 
-.ping-pong-card {
-  width: 600px;
-  display: inline-block !important;
+.eddie-card {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   padding-bottom: 0px !important;
-  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, .2), 0 6px 10px 0 rgba(0, 0, 0, .14), 0 1px 18px 0 rgba(0, 0, 0, .12)
 }
+
+.ping-pong-card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px !important;
+}
+
+.google-card {
+  display: block;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px !important;
+}
+
+.stickers-card {
+  display: block;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px !important;
+}
+
 
 .align-center {
   text-align: center;
